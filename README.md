@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Arllette Fonseca
-I love building websites that help small businesses grow, I also love creating applications that can help elevate people. At heart, I am a tech lover who has spent her entire life always learning new technologies. All my experiences have led me to this moment of enjoying software engineering on an everyday basis.
+Hi, I am Arllette Fonseca. I am person who loves technology and began working on websites as a hobby. I began this journey of web development with creating wordpress websites for family and friends. Through this hobby, I found happiness and a sense of belonging. I decided to further my studies in software development so that I can become well rounded developer and understand the back-end of things.
 
 ### Some technologies I enjoy working with:
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
