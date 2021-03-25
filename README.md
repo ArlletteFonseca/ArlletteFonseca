@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Arllette Fonseca
-Hi, I am Arllette Fonseca. I am person who loves technology and began working on websites as a hobby. I began this journey of web development with creating wordpress websites for family and friends. Through this hobby, I found happiness and a sense of belonging. I decided to further my studies in software development so that I can become well rounded developer and understand the back-end of things.
+Hi, I am Arllette Fonseca. I am person who loves technology and began working on websites as a hobby. I began this journey of web development with creating WordPress websites for family and friends. Through this hobby, I found happiness and a sense of belonging. I decided to further my studies in software development so that I can become well rounded developer and understand the back-end of things.
 
 ### Some technologies I enjoy working with:
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
