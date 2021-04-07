@@ -1,4 +1,4 @@
-
+![Banner](./banner.jpg)
 ### Hi there 👋, my name is Arllette Fonseca
 I am person who loves technology and so I  began  playing around with
               websites as a hobby. I began this journey of web development with creating WordPress websites for family and friends. Through this hobby, I found
@@ -22,15 +22,14 @@ I am person who loves technology and so I  began  playing around with
 
 
 
-### 📫 How to reach me: 
+### 📫 How to reach me:
 arllette.fonseca@gmail.com
 ### ⚡ Fun fact:
-I used to study Aerospace Engineering and  built rockets in a lab 
+I used to study Aerospace Engineering and  built rockets in a lab
 
 
 ### My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArlletteFonseca)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArlletteFonseca&show_icons=true)  
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArlletteFonseca&show_icons=true)
