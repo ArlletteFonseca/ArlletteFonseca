@@ -5,7 +5,7 @@ I am person who loves technology and so I  began  playing around with
               happiness and a sense of belonging. I decided I wanted to make a career out of this and therefore I  began to further my studies in software development to become a well rounded developer. Today, I enjoy working on meaningful projects on a daily basis.
 ### Applications Developed
 
-<img src="./chatboxTransparent.png" width="300">
+<img src="./chatboxTransparent.png" width="400">
 
 Live Preview: [Chatbox Application](https://student-teacher-chat.herokuapp.com/)
 
@@ -13,7 +13,8 @@ Live Preview: [Chatbox Application](https://student-teacher-chat.herokuapp.com/)
 
 
 
-<img src="./colegio.png" width="300">
+
+<img src="./colegio.png" width="400">
 
 Live Preview: [Colegio Acces Website](https://www.colegioacces.com/)
 
@@ -26,7 +27,6 @@ A technical school website providing students information about the school. Crea
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Babel Badge](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Webpack Badge](https://img.shields.io/badge/Webpack-8dd6f9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
@@ -38,7 +38,7 @@ A technical school website providing students information about the school. Crea
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=git&logoColor=white)
-
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 
 ### 📫 How to reach me:
 arllette.fonseca@gmail.com
