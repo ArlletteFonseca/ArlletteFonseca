@@ -1,8 +1,8 @@
 ![Banner](./banner.jpg)
 ### Hi there 👋, my name is Arllette Fonseca
-I am person who loves technology and so I  began  playing around with
-              websites as a hobby. This journey began with creating WordPress websites for family and friends. Through this hobby, I found
-              happiness and a sense of belonging. I decided I wanted to make a career out of this and therefore I  began to further my studies in software development. Today, I enjoy working on meaningful projects on a daily basis.
+ I am person who loves technology and so I  began  playing around with
+              websites as a hobby. I began by creating WordPress websites for family and friends. Through this hobby, I found
+              happiness and a sense of belonging. I then decided I wanted to make a career out of this and so I began to further my studies in software development. Today, I enjoy working on meaningful projects on a daily basis.
 ### Applications Developed
 
 <img src="./chatboxTransparent.png" width="400">
