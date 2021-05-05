@@ -1,6 +1,6 @@
 ![Banner](./banner.jpg)
 ### Hi there 👋, my name is Arllette Fonseca
-I am a technology lover who started working on websites as a hobby. I have a background in engineering and customer facing experience. I am a problem solver and a challenge seeker. Today, my web development hobby has become my life and I enjoy working on meaningful projects on a daily basis. 
+I am a technology lover who started working on websites as a hobby. I have a background in engineering and customer facing experience. I am a problem solver and a challenge seeker. Today, my web development hobby has become my life and I enjoy working on meaningful projects on a daily basis.
 ### Applications Developed
 
 <img src="./chatboxTransparent.png" width="400">
@@ -20,6 +20,7 @@ A technical school website providing students information about the school. Crea
 
 
 ### Some technologies I enjoy working with:
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Nodejs Badge](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=black)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
