@@ -19,6 +19,8 @@ Live Preview: [Colegio Acces Website](https://www.colegioacces.com/)
 A technical school website providing students information about the school. Created using HTML, CSS, and JavaScript.
 
 
+
+
 <img src="./chiller.png" width="400">
 
 Live Preview: [Chiller Recipe App](https://chiller-recipe-application.netlify.app/)
