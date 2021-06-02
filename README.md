@@ -19,10 +19,11 @@ Live Preview: [Colegio Acces Website](https://www.colegioacces.com/)
 A technical school website providing students information about the school. Created using HTML, CSS, and JavaScript.
 
 
+<img src="./chiller.png" width="400">
 
 Live Preview: [Chiller Recipe App](https://chiller-recipe-application.netlify.app/)
 
-A Recipe application given you a recipe list based on ingredients in your fridge. Created using HTML, CSS, JavaScript, Ajax and the meal database API.
+A recipe application given you instructions for meals based on ingredients in your fridge. Created using HTML, CSS, JavaScript, Ajax and the meal database API.
 
 
 ### Some technologies I enjoy working with:
