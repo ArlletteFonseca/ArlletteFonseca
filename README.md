@@ -25,7 +25,7 @@ A technical school website providing students information about the school. Crea
 
 Live Preview: [Chiller Recipe App](https://chiller-recipe-application.netlify.app/)
 
-A recipe application given you instructions for meals based on ingredients in your fridge. Created using HTML, CSS, JavaScript, Ajax and the meal database API.
+A recipe application given you instructions for meals based on ingredients in your fridge. Created using HTML, CSS, JavaScript, Ajax and TheMealDB Api.
 
 
 ### Some technologies I enjoy working with:
