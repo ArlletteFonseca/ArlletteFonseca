@@ -1,6 +1,6 @@
 ![Banner](./banner.jpg)
 ### Hi there 👋, my name is Arllette Fonseca
-I am a technology lover who started working on websites as a hobby. I have a background in engineering and customer facing experience. I am a problem solver and a challenge seeker. Today, my web development hobby has become my life and I enjoy working on meaningful projects on a daily basis.
+I am a technology lover who started working on websites as a hobby. I have a background in engineering and customer facing experience. I am a problem solver and a challenge seeker, mixing those two with my hobby has brought me down the web development path. Today, my web development hobby has become my life and I enjoy working on meaningful projects on a daily basis.
 ### Applications Developed
 
 <img src="./chatboxTransparent.png" width="400">
