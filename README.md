@@ -46,7 +46,7 @@ A recipe application given you instructions for meals based on ingredients in yo
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=git&logoColor=white)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
+
 
 ### 📫 How to reach me:
 arllette.fonseca@gmail.com
